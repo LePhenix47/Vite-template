@@ -8,7 +8,7 @@ export default defineConfig({
     host: "0.0.0.0", // Allows access to your local IP address
     open: true, // Optional: Opens the browser automatically
   },
-  base: "/Chess_Younes-Lahouiti/",
+  base: "/Vite-template/",
   css: {
     postcss: {
       plugins: [autoprefixer()],
